@@ -1,3 +1,8 @@
 huushusbs shsus shsius hsius
+<<<<<<< HEAD
 chal bhai ja apna kaam kr
 mai master hun or ya commit maira hai
+=======
+chal bhai ja apna kaam kr 
+this comment is done by mbranch2 to check merge graph
+>>>>>>> Branch2
